@@ -1,9 +1,11 @@
-<h1 align="center">📚 My Book Recommendation Project</h1>
-
 <p align="center">
   <a href="https://github.com/deobibila/peepaway"><img src="https://img.shields.io/github/stars/deobibila/peepaway?style=flat-square" /></a>
   <a href="https://github.com/deobibila/peepaway"><img src="https://img.shields.io/github/forks/deobibila/peepaway?style=flat-square" /></a>
   <a href="https://github.com/deobibila/peepaway/blob/main/LICENSE"><img src="https://img.shields.io/github/license/deobibila/peepaway?style=flat-square" /></a>
+  <a href="https://github.com/deobibila/peepaway/actions"><img src="https://vercel.com/api/ping/deobibila/peepaway" /></a>
+  <a href="https://coveralls.io/github/deobibila/peepaway"><img src="https://coveralls.io/repos/github/deobibila/peepaway/badge.svg?branch=main" /></a>
+
+
 </p>
 
 # ✈️ Travel Deals Notifications - Peepaway
