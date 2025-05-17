@@ -1,3 +1,11 @@
+<h1 align="center">📚 My Book Recommendation Project</h1>
+
+<p align="center">
+  <a href="https://github.com/deobibila/peepaway"><img src="https://img.shields.io/github/stars/deobibila/peepaway?style=flat-square" /></a>
+  <a href="https://github.com/deobibila/peepaway"><img src="https://img.shields.io/github/forks/deobibila/peepaway?style=flat-square" /></a>
+  <a href="https://github.com/deobibila/peepaway/blob/main/LICENSE"><img src="https://img.shields.io/github/license/deobibila/peepaway?style=flat-square" /></a>
+</p>
+
 # ✈️ Travel Deals Notifications - Peepaway
 
 A website to get notifications about flight straight to your email
