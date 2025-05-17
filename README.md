@@ -4,6 +4,8 @@
   <a href="https://github.com/deobibila/peepaway/blob/main/LICENSE"><img src="https://img.shields.io/github/license/deobibila/peepaway?style=flat-square" /></a>
   <a href="https://github.com/deobibila/peepaway/actions"><img src="https://vercel.com/api/ping/deobibila/peepaway" /></a>
   <a href="https://coveralls.io/github/deobibila/peepaway"><img src="https://coveralls.io/repos/github/deobibila/peepaway/badge.svg?branch=main" /></a>
+  <img src="https://img.shields.io/github/last-commit/deobibila/peepaway?style=flat-square" />
+
 
 
 </p>
