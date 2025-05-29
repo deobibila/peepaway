@@ -17,8 +17,6 @@
 
 A website to get notifications about flight straight to your email
 
-![demo screenshot](./)
-
 ---
 
 ## 🧠 Features
@@ -38,7 +36,11 @@ I wanted to learn:
 - How to build and scale scraping-based APIs
 - How to build backend and design systems
 
-This is part of my personal project series focused on **infrastructure and intelligent interfaces**.
+The backend for this project isn't included in this repo. ()
+
+This is part of my personal project series focused on **infrastructure and backend programming**.
+
+
 
 ---
 
