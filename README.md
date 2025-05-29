@@ -49,7 +49,7 @@ This is part of my personal project series focused on **infrastructure and backe
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/deobibila/going-clone.git
-cd going-clone
+git clone https://github.com/deobibila/peepaway.git
+cd peepaway
 
 
