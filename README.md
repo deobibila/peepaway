@@ -13,13 +13,13 @@
 
 </p>
 
-# ✈️ Travel Deals Notifications - Peepaway
+#  Travel Deals Notifications - Peepaway
 
 A website to get notifications about flight straight to your email
 
 ---
 
-## 🧠 Features
+##  Features
 
 - 🔍 Select airport you could travel from *(planned)*
 - 📬 Email alerts for deal matches *(planned)*
@@ -29,7 +29,7 @@ A website to get notifications about flight straight to your email
 
 ---
 
-## 🧑‍💻 Why I Built This
+##  Why I Built This
 
 I wanted to learn:
 - How travel deal engines work under the hood
@@ -44,7 +44,7 @@ This is part of my personal project series focused on **infrastructure and backe
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the repo
 
