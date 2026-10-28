@@ -21,11 +21,11 @@ A website to get notifications about flight straight to your email
 
 ##  Features
 
-- 🔍 Select airport you could travel from *(planned)*
-- 📬 Email alerts for deal matches *(planned)*
-- 🛫 Uh not sure... I will add things as I go
-- ⚡️ Deployed on
-- 🧰 Built with:
+-  Select airport you could travel from *(planned)*
+-  Email alerts for deal matches *(planned)*
+- Uh not sure... I will add things as I go
+- ⚡ Deployed on
+- Built with:
 
 ---
 
