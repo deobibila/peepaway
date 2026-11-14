@@ -11,9 +11,17 @@
     "apps/web"
   ],
   "scripts": {
-    "dev": "yarn workspace peepaway-web start",
-    "storybook": "yarn workspace peepaway-web storybook",
+    "dev": "yarn workspace peepaway-web dev",
     "build": "yarn workspace peepaway-web build",
-    "test:web": "yarn workspace peepaway-web test"
+    "lint": "yarn workspace peepaway-web lint",
+    "typecheck": "yarn workspace peepaway-web typecheck",
+    "prepare": "husky"
+  },
+  "devDependencies": {
+    "husky": "9",
+    "lint-staged": "^17.6.0"
+  },
+  "lint-staged": {
+    "apps/web/**/*.{js,jsx,ts,tsx}": "eslint --config apps/web/eslint.config.mjs"
   }
 }
