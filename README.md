@@ -2,7 +2,7 @@
   <p>
     <img src="docs/assets/logo.png" alt="Peepaway" width="360" />
     <br />
-    <strong>Plan your next trip</strong>
+    <strong>Plan your next Trip with Friends & Stay Connected</strong>
   </p>
 </div>
 
@@ -43,7 +43,7 @@
 
 ##  Why I Built This
 
-I wanted to learn:
+I was bored and wanted to learn:
 - How travel deal engines work under the hood
 - How to build and scale scraping-based APIs
 - How to build backend and design systems
